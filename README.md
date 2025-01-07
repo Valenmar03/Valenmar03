@@ -24,10 +24,10 @@ I’m Valentín, a Computer Engineering student and junior web developer. I enjo
 
 <hr width="36%" >
 
-<h3>My Most Used Languages</h3>
+<h3>Github Stats</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valenmar03&layout=compact&theme=tokyonight)
+![Valentin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=valenmar03&show_icons=true&theme=tokyonight)
 
 ## My Skills Include
 

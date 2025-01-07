@@ -19,7 +19,8 @@ I’m Valentín, a Computer Engineering student and junior web developer. I enjo
 - :computer: I am a `Junior` programmer using `React`, `TypeScript`, `NodeJs`, `Astro`.
 - :student: I’m currently learning `Next.js`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is <a href="https://drive.google.com/uc?export=download&id=1lbGGx5PEMatsnWNfpzSz2KOOuHAELfkl" target="_blank">MY RESUME</a>. <!-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).-->
+- :thinking: I’m currently open for a new `job opportunity`, this is <a href="https://drive.google.com/file/d/1rWHzWw8Dj5D9aB4k6BwY-kNlYiCKRocr/view?usp=drive_link" target="_blank">MY RESUME</a>.
+- :boom: You can visit <a href="https://portfolio-web-git-main-valenmar03s-projects.vercel.app/" target="_blank">MY WEBSITE</a>.
 <br>
 
 <hr width="36%" >
